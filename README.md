@@ -3,7 +3,7 @@
 
 - 🌱 Estou atualmente estudando na trybe a linguagem **Python**
 
-- 👨‍💻 All of my projects are available at [github.com/arturpeixoto](github.com/arturpeixoto)
+- 👨‍💻 Todos meus projetos estão em [github.com/arturpeixoto](github.com/arturpeixoto)
 
 - 📫 Email **arturpeixotolucas@gmail.com**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Opa 👋, eu sou Artur Peixoto</h1>
 <h3 align="center">Um programador fullstack, com foco em back-end e entusiasta de tecnologia de MG, Brasil</h3>
 
-- 🌱 Estou atualmente estudando na trybe a linguagem **Python**
+- 🌱 Estou atualmente aprofundando meus conhecimentos na linguagem **Python**
 
 - 👨‍💻 Todos meus projetos estão em [github.com/arturpeixoto](github.com/arturpeixoto)
 
